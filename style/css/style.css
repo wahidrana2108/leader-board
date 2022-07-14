@@ -15,19 +15,23 @@
     width: 56px;
     height: 56px;
 }
- .resize img{
+.resize img{
     height: 16px;
  }
-  .clock img{
+.clock img{
     height: 20px;
   }
 
- .highlight{
+.highlight{
     height: 25px;
     background-color: rgba(255, 0, 0, 0.3);
     border-radius: 12px;
  }
 
- .card{
+.card{
     --bs-card-border-radius: 1.4rem;
+ }
+
+ .blog .card{
+    --bs-card-border-color: none;
  }
