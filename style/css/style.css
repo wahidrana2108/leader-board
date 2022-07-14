@@ -1,0 +1,33 @@
+.bg-color{
+    background-color: #562EFF;
+}
+
+.blue_text{
+    color: #6241f3;
+}
+
+.navbar img{
+    width: 40.42px;
+    height: 51;
+}
+
+.player img{
+    width: 56px;
+    height: 56px;
+}
+ .resize img{
+    height: 16px;
+ }
+  .clock img{
+    height: 20px;
+  }
+
+ .highlight{
+    height: 25px;
+    background-color: rgba(255, 0, 0, 0.3);
+    border-radius: 12px;
+ }
+
+ .card{
+    --bs-card-border-radius: 1.4rem;
+ }
