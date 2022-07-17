@@ -35,3 +35,14 @@
  .blog .card{
     --bs-card-border-color: none;
  }
+
+ 
+element.style {
+}
+.card-footer:last-child {
+    border-radius: 0 0 var(--bs-card-inner-border-radius) var(--bs-card-inner-border-radius);
+}
+.card-footer {
+    background-color: var(--bs-card-bg);
+    border-top: var(--bs-card-border-width) solid var(--bs-card-bg);
+}
